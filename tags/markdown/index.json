@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://bringsrain.netlify.app/pulpexample/markdown-syntax/",
+        "ref": "https://bringsrain.github.io/pulpexample/markdown-syntax/",
         "title": "Markdown Syntax Guide",
         "section": "pulpexample",
         "tags": ["markdown","css","html","themes"],
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://bringsrain.netlify.app/pulpexample/placeholder-text/",
+        "ref": "https://bringsrain.github.io/pulpexample/placeholder-text/",
         "title": "Placeholder Text",
         "section": "pulpexample",
         "tags": ["markdown","text"],
