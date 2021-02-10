@@ -1,2 +1,2 @@
 # bringsrain.github.io
-Currently it is being used for exercising my enrolled free html & css course on packtpub :D
+Corat-coret oprekan dan oplosan. Dokumentasi bertele-tele untuk yang berleha-leha bukan untuk yang tergesa-gesa.
