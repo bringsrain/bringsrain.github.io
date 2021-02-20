@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ScratchLog</title>
-    <link>https://bringsrain.github.io/categories/</link>
+    <link>https://bringsrain.odis.web.id/categories/</link>
     <description>Recent content in Categories on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id-id</language><atom:link href="https://bringsrain.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>id-id</language><atom:link href="https://bringsrain.odis.web.id/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
