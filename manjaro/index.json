@@ -1,0 +1,10 @@
+[
+    {
+        "ref": "https://bringsrain.odis.web.id/manjaro/2021-02-10-aur-build-failed-unknown-public-key/",
+        "title": "Aur Build FAILED (Unknown Public Key [ key ])",
+        "section": "manjaro",
+        "tags": null,
+        "date" : "2021.02.10",
+        "body": "Build dari AUR kena galat public key ndak dikenal? import aja dulu\u0026hellip; ^_^\ngpg --recv-keys [key] "
+    }
+]
