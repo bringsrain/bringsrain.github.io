@@ -6,26 +6,7 @@
     <description>Recent content on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 10 Feb 2021 15:06:21 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aur Build FAILED (Unknown Public Key [ key ])</title>
-      <link>https://bringsrain.odis.web.id/manjaro/2021-02-10-aur-build-failed-unknown-public-key/</link>
-      <pubDate>Wed, 10 Feb 2021 15:06:21 +0700</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/manjaro/2021-02-10-aur-build-failed-unknown-public-key/</guid>
-      <description>Build dari AUR kena galat public key ndak dikenal? import aja dulu&amp;hellip; ^_^
-gpg --recv-keys [key] </description>
-    </item>
-    
-    <item>
-      <title>2021 02 07 Lightline</title>
-      <link>https://bringsrain.odis.web.id/nvim/2021-02-07-lightline/</link>
-      <pubDate>Sun, 07 Feb 2021 20:27:08 +0700</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/nvim/2021-02-07-lightline/</guid>
-      <description>fdaasdfafd dhfisahfiafhsafsa dfasdffaa</description>
-    </item>
-    
+    <lastBuildDate>Sun, 07 Feb 2021 14:13:02 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inisiasi NeoVim</title>
       <link>https://bringsrain.odis.web.id/nvim/2021-02-07-inisiasi/</link>
@@ -38,10 +19,10 @@ Jarang sekali saya mengubah konfigurasi aplikasi-aplikasi yang saya gunakan, jik
     
     <item>
       <title>Halo Dunia</title>
-      <link>https://bringsrain.odis.web.id/scratchlogs/2020-02-07-halo-dunia/</link>
+      <link>https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/</link>
       <pubDate>Sun, 07 Feb 2021 14:00:02 +0700</pubDate>
       
-      <guid>https://bringsrain.odis.web.id/scratchlogs/2020-02-07-halo-dunia/</guid>
+      <guid>https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/</guid>
       <description>Halo Dunia!! </description>
     </item>
     
