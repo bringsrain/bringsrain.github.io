@@ -6,7 +6,19 @@
     <description>Recent content on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 07 Feb 2021 14:13:02 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 04:48:12 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cpanel Force Redirect Http to Https</title>
+      <link>https://bringsrain.odis.web.id/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/</link>
+      <pubDate>Tue, 23 Feb 2021 04:48:12 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/</guid>
+      <description>Bukaan Satu Mo lahiran kali ah&amp;hellip;
+Ngga denk!, Bingung saja mau tulis header-nya apa, pengennya sih yang anti mainstream begitulah jadinya. Baru-baru menggunakan Cpanel, melihat fitur SSL gratisan semacam Letsencrypt berbinar-binarlah mata saya. Ndak perlu rogoh kocek lagi kalo mau situsnya bergaya dengan embel-embel &amp;ldquo;s&amp;rdquo; diprotokolnya. Katanya kalo ditambahin huruf &amp;ldquo;s&amp;rdquo; itu jadi makin bonafide.
+Lha&amp;hellip;, kata siapa om?
+Aduuh, males ngusutnya itu kata siapa, saya cari yang gampang aja ya, macem wikipedia.</description>
+    </item>
+    
     <item>
       <title>Inisiasi NeoVim</title>
       <link>https://bringsrain.odis.web.id/nvim/2021-02-07-inisiasi/</link>
