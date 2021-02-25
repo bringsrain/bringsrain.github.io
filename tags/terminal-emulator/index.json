@@ -7,13 +7,4 @@
         "date" : "2021.02.23",
         "body": "Keybindings    Action Shortcut     Open new tab ctrl + shift + t   Set tab title ctrl + alt + shift + t   Next tab ctrl + shift + right   Previous tab ctrl + shift + left   Move tab forward ctrl + shift + .   Move tab backward ctrl + shift + ,   Open new window ctrl + shift + enter   Next window ctrl + shift + ]   Previous window ctrl shift + [    "
     }
-,
-    {
-        "ref": "https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/",
-        "title": "Halo Dunia",
-        "section": "scratchlogs",
-        "tags": null,
-        "date" : "2021.02.07",
-        "body": "Halo Dunia!! "
-    }
 ]

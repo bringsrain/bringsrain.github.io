@@ -6,76 +6,22 @@
     <description>Recent content in Tags on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 05:40:52 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://bringsrain.odis.web.id/tags/css/index.json</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Kitty</title>
+      <link>https://bringsrain.odis.web.id/tags/kitty/index.json</link>
+      <pubDate>Tue, 23 Feb 2021 05:40:52 +0700</pubDate>
       
-      <guid>https://bringsrain.odis.web.id/tags/css/index.json</guid>
+      <guid>https://bringsrain.odis.web.id/tags/kitty/index.json</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://bringsrain.odis.web.id/tags/html/index.json</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Terminal Emulator</title>
+      <link>https://bringsrain.odis.web.id/tags/terminal-emulator/index.json</link>
+      <pubDate>Tue, 23 Feb 2021 05:40:52 +0700</pubDate>
       
-      <guid>https://bringsrain.odis.web.id/tags/html/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://bringsrain.odis.web.id/tags/markdown/index.json</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/markdown/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://bringsrain.odis.web.id/tags/themes/index.json</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/themes/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://bringsrain.odis.web.id/tags/privacy/index.json</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/privacy/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://bringsrain.odis.web.id/tags/shortcodes/index.json</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/shortcodes/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://bringsrain.odis.web.id/tags/text/index.json</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/text/index.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://bringsrain.odis.web.id/tags/emoji/index.json</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bringsrain.odis.web.id/tags/emoji/index.json</guid>
+      <guid>https://bringsrain.odis.web.id/tags/terminal-emulator/index.json</guid>
       <description></description>
     </item>
     
