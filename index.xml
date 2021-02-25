@@ -6,7 +6,16 @@
     <description>Recent content on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Tue, 23 Feb 2021 05:40:52 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 10:27:49 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qutebrowser Open in New Window</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/</link>
+      <pubDate>Thu, 25 Feb 2021 10:27:49 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/</guid>
+      <description>Command Mode open -w [URL] Keybinding wo </description>
+    </item>
+    
     <item>
       <title>Kitty - Fungsi Yang Sering Digunakan</title>
       <link>https://bringsrain.odis.web.id/scratchlogs/kitty-fungsi-yang-sering-digunakan/</link>
@@ -29,6 +38,16 @@ Aduuh, males ngusutnya itu kata siapa, saya cari yang gampang aja ya, macem wiki
     </item>
     
     <item>
+      <title>Aur Build FAILED (Unknown Public Key [ key ])</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</link>
+      <pubDate>Wed, 10 Feb 2021 15:06:21 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</guid>
+      <description>Build dari AUR kena galat public key ndak dikenal? import aja dulu&amp;hellip; ^_^
+gpg --recv-keys [key] </description>
+    </item>
+    
+    <item>
       <title>Inisiasi NeoVim</title>
       <link>https://bringsrain.odis.web.id/nvim/2021-02-07-inisiasi/</link>
       <pubDate>Sun, 07 Feb 2021 14:13:02 +0700</pubDate>
@@ -40,10 +59,10 @@ Jarang sekali saya mengubah konfigurasi aplikasi-aplikasi yang saya gunakan, jik
     
     <item>
       <title>Halo Dunia</title>
-      <link>https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/</link>
+      <link>https://bringsrain.odis.web.id/scratchlogs/halo-dunia/</link>
       <pubDate>Sun, 07 Feb 2021 14:00:02 +0700</pubDate>
       
-      <guid>https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/</guid>
+      <guid>https://bringsrain.odis.web.id/scratchlogs/halo-dunia/</guid>
       <description>Halo Dunia!! </description>
     </item>
     

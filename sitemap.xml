@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bringsrain.odis.web.id/tags/qutebrowser/</loc>
+    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/</loc>
+    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/</loc>
+    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/scratchlogs/</loc>
+    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/tags/</loc>
+    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bringsrain.odis.web.id/tags/kitty/</loc>
     <lastmod>2021-02-23T05:40:52+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://bringsrain.odis.web.id/scratchlogs/kitty-fungsi-yang-sering-digunakan/</loc>
-    <lastmod>2021-02-23T05:40:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bringsrain.odis.web.id/</loc>
-    <lastmod>2021-02-23T05:40:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bringsrain.odis.web.id/scratchlogs/</loc>
-    <lastmod>2021-02-23T05:40:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bringsrain.odis.web.id/tags/</loc>
     <lastmod>2021-02-23T05:40:52+07:00</lastmod>
   </url>
   
@@ -43,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</loc>
+    <lastmod>2021-02-10T15:06:21+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bringsrain.odis.web.id/nvim/2021-02-07-inisiasi/</loc>
     <lastmod>2021-02-07T14:13:02+07:00</lastmod>
   </url>
@@ -53,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://bringsrain.odis.web.id/scratchlogs/2021-02-07-halo-dunia/</loc>
+    <loc>https://bringsrain.odis.web.id/scratchlogs/halo-dunia/</loc>
     <lastmod>2021-02-07T14:00:02+07:00</lastmod>
   </url>
   
