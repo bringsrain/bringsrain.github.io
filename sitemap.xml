@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bringsrain.odis.web.id/tags/cpanel/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/tags/laravel/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/tags/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/whmcpanel/</loc>
+    <lastmod>2021-02-27T13:34:30+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bringsrain.odis.web.id/tags/qutebrowser/</loc>
     <lastmod>2021-02-25T10:27:49+07:00</lastmod>
   </url>
@@ -13,17 +43,7 @@
   </url>
   
   <url>
-    <loc>https://bringsrain.odis.web.id/</loc>
-    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bringsrain.odis.web.id/scratchlogs/</loc>
-    <lastmod>2021-02-25T10:27:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bringsrain.odis.web.id/tags/</loc>
     <lastmod>2021-02-25T10:27:49+07:00</lastmod>
   </url>
   
@@ -48,17 +68,22 @@
   </url>
   
   <url>
-    <loc>https://bringsrain.odis.web.id/whmcpanel/</loc>
-    <lastmod>2021-02-23T04:48:12+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</loc>
     <lastmod>2021-02-10T15:06:21+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bringsrain.odis.web.id/nvim/2021-02-07-inisiasi/</loc>
+    <loc>https://bringsrain.odis.web.id/tags/manjaro/</loc>
+    <lastmod>2021-02-10T15:06:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/nvim/nvim-inisiasi/</loc>
+    <lastmod>2021-02-07T14:13:02+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bringsrain.odis.web.id/tags/nvim/</loc>
     <lastmod>2021-02-07T14:13:02+07:00</lastmod>
   </url>
   
