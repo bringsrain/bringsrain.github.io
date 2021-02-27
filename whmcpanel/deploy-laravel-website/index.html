@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>
+      
+          Deploy Laravel Website di Cpanel - ScratchLog
+      
+  </title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="BringsRain&#39;s Scratchlogs" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://bringsrain.odis.web.id/img/favicon.ico">
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://bringsrain.odis.web.id/style.min.262ce4211a6ca54c62fbaea1e3bd1e2fa6b89fc979ee9dca37223d13069a77eb.css" integrity="sha256-JizkIRpspUxi&#43;66h470eL6a4n8l57p3KNyI9Ewaad&#43;s=">
+  
+  
+  
+  <link rel="stylesheet" href="https://bringsrain.odis.web.id/style-dark.min.0a647fb6c07e04b77b54fa0515d0a683d39ecdb251dba960fe1f966f7ff36fc2.css" media="(prefers-color-scheme: dark)" integrity="sha256-CmR/tsB&#43;BLd7VPoFFdCmg9OezbJR26lg/h&#43;Wb3/zb8I=">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  
+  
+
+  <meta property="og:title" content="Deploy Laravel Website di Cpanel" />
+<meta property="og:description" content="Developer Kere Hore Belajar berkolaborasi dalam sebuah proyek teknologi informasi menyenangkan. Menggelitik kreatifitas. Ceritanya, Sebagai pemuda harapan bangsa&hellip; eh, pemuda zaman now, ga keren dong kalo belum pernah nyobain yang namanya ngoprek website. Baru-baru ini, kebetulan ada kesempatan untuk ngoprek website berjamaah ama temen-temen. Di dalam oprek berjamaah ini, saya kebagian jatah meng-online-kan website hasil oprekan. Untuk meng-online-kan website tentu butuh hostingan. Mau sewa VPS, ndak mampu. Mau daftar cloud gratisan ndak punya kartu kridit." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/" />
+<meta property="article:published_time" content="2021-02-27T13:34:30+07:00" />
+<meta property="article:modified_time" content="2021-02-27T13:34:30+07:00" />
+<meta itemprop="name" content="Deploy Laravel Website di Cpanel">
+<meta itemprop="description" content="Developer Kere Hore Belajar berkolaborasi dalam sebuah proyek teknologi informasi menyenangkan. Menggelitik kreatifitas. Ceritanya, Sebagai pemuda harapan bangsa&hellip; eh, pemuda zaman now, ga keren dong kalo belum pernah nyobain yang namanya ngoprek website. Baru-baru ini, kebetulan ada kesempatan untuk ngoprek website berjamaah ama temen-temen. Di dalam oprek berjamaah ini, saya kebagian jatah meng-online-kan website hasil oprekan. Untuk meng-online-kan website tentu butuh hostingan. Mau sewa VPS, ndak mampu. Mau daftar cloud gratisan ndak punya kartu kridit.">
+<meta itemprop="datePublished" content="2021-02-27T13:34:30+07:00" />
+<meta itemprop="dateModified" content="2021-02-27T13:34:30+07:00" />
+<meta itemprop="wordCount" content="598">
+
+
+
+<meta itemprop="keywords" content="Cpanel,Laravel," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:image" content="https://bringsrain.odis.web.id/img/avatar.jpg"/>
+<meta name="twitter:title" content="Deploy Laravel Website di Cpanel"/>
+<meta name="twitter:description" content="Developer Kere Hore Belajar berkolaborasi dalam sebuah proyek teknologi informasi menyenangkan. Menggelitik kreatifitas. Ceritanya, Sebagai pemuda harapan bangsa&hellip; eh, pemuda zaman now, ga keren dong kalo belum pernah nyobain yang namanya ngoprek website. Baru-baru ini, kebetulan ada kesempatan untuk ngoprek website berjamaah ama temen-temen. Di dalam oprek berjamaah ini, saya kebagian jatah meng-online-kan website hasil oprekan. Untuk meng-online-kan website tentu butuh hostingan. Mau sewa VPS, ndak mampu. Mau daftar cloud gratisan ndak punya kartu kridit."/>
+
+  <!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+  <![endif]-->
+
+  <!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+  <![endif]-->
+
+  
+  
+</head>
+
+  <body>
+    
+  <h1>Deploy Laravel Website di Cpanel</h1>
+  <header>
+  
+  <div class="avatar">
+    <img class="avatarMask" src="https://bringsrain.odis.web.id/img/avatar.jpg" alt="">
+    <a href="https://bringsrain.odis.web.id"><img class="avatar-border" src="https://bringsrain.odis.web.id/img/avatar-border.svg" alt=""></a>
+  </div>
+  
+  <h2><a class="author" href="https://bringsrain.odis.web.id">BringsRain&#39;s Scratchlogs</a></h2>
+</header>
+
+  
+  
+  
+  <p class="date">February 27, 2021</p>
+  
+  
+  
+  <div id="tags">
+    <ul>
+      
+        
+        
+          <li><a href="https://bringsrain.odis.web.id/tags/cpanel/">Cpanel</a></li>
+        
+      
+        
+        
+          <li><a href="https://bringsrain.odis.web.id/tags/laravel/">Laravel</a></li>
+        
+      
+    </ul>
+  </div>
+  
+  
+  <div id="contentBody">
+    <h2 id="developer-kere-hore">Developer Kere Hore</h2>
+<p>Belajar berkolaborasi dalam sebuah proyek teknologi informasi menyenangkan. Menggelitik kreatifitas. Ceritanya, Sebagai pemuda harapan bangsa&hellip; eh, pemuda zaman now, ga keren dong kalo belum pernah nyobain yang namanya ngoprek website. Baru-baru ini, kebetulan ada kesempatan untuk ngoprek website berjamaah ama temen-temen. Di dalam oprek berjamaah ini, saya kebagian jatah meng-<em>online</em>-kan website hasil oprekan. Untuk meng-<em>online</em>-kan website tentu butuh hostingan. Mau sewa VPS, ndak mampu. Mau daftar cloud gratisan ndak punya kartu <em>kridit</em>. Dasar kere!.</p>
+<p>Gimana ndak kere, saya cuma gawe sebagai <em>&ldquo;ngadimin kontrak tahunan&rdquo;</em>, temen yang satu gawe sebagai staf IT disebuah rumah sakit swasta, yang satunya lagi <em>freelancer programmer</em> yang baru meniti karir. Kebetulan juga setiap awal tahun, saya selalu kebagian jatah puasa gajian. Karena kondisi ini,  diputuskan untuk menggunakan <em>&ldquo;Shared Hosting&rdquo;</em> sebagai tempat gentayangannya si website. Supaya hore, kita-kita ndak sewa hosting saja, tapi ambil paket <em>reseller</em>. Mudah-mudahan kedepannya bisa dapet tambahan uang jajan dari hasil <em>resale</em>-nya.</p>
+<p>Walau kami kere, tapi <em>&ldquo;skill&rdquo;</em> temen-temen yang garap website lumayan hore kok. CMS website dikembangkan sendiri oleh teman-teman. Pengembangan menggunakan bahasa pemrogaraman PHP dengan framework Laravel. Disini bisa disimpulkan bahwa teman-teman lumayan hore, dan saya yang paling kere. Makanya, saat yang lain <em>ngoding</em> saya cuma kebagian jatah <em>&ldquo;deploy&rdquo;</em> saja. Eits.., karena saya punya temen-temen yang hore, dan punya keinginan untuk makin hore, tentu saja yang kita lakukan tidak berhenti sampai oprekan saja. Saat ini kita juga sedang mengembangkan potensi untuk bisa melayani permintaan, pembuatan website dan aplikasi. Untuk tahu lebih lanjut tentang kami yang kere hore ini, silahkan meilipir ke <a href="https://odis.web.id">odis.web.id</a>.</p>
+<h2 id="derita-seorang-tukang-deploy">Derita Seorang Tukang Deploy</h2>
+<h3 id="derita-pertama">Derita Pertama</h3>
+<p>Ngoprek, kalau tidak ada ganjalan, tidak seru. Ganjalan pertama yang dihadapi adalah perbedaan nama direktori <em>&ldquo;Document Root&rdquo;</em> bawaan Laravel dengan Cpanel. Laravel menggunakan nama <strong>public</strong>, sementara Cpanel menggunakan nama <strong>public_html</strong>. Jadi saat deploy, direktori kudu di-<em>rename</em> mengikuti bawaan Cpanel.</p>
+<p>Mengganti nama direktori pada sebuah <em>framework</em> tentu tidak bisa berakhir pada proses <em>rename</em> saja, karena setiap komponen dalam sebuah <em>framework</em> saling berkaitan. Berikut resep mengganti nama <strong>Document Root</strong> laravel dari <strong>public</strong> menjadi <strong>public_html</strong>:</p>
+<blockquote>
+<p>Catatan: Versi yang digunakan disini adalah <code>PHP7</code> dan <code>Laravel 7.30.1</code></p>
+</blockquote>
+<ol>
+<li>Ganti nama direktori <strong>public</strong> menjadi <strong>public_html</strong></li>
+<li>Tambahkan baris berikut pada berkas <code>public_html/index.php</code> setelah deklarasi variabel <code>$app</code>.
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php">$app<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">bind</span>(<span style="color:#e6db74">&#39;path.public&#39;</span>, <span style="color:#66d9ef">function</span>() { <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">__DIR__</span>; });
+</code></pre></div><p>Baris tersebut berfungsi untuk <em>binding</em> <strong>Document Root</strong> ke direktori tempat eksekusi <strong>index.php</strong>.</p>
+</li>
+<li>Selanjutnya agar <code>Artisan</code> mengenali direktori <code>public_html</code>, tambahkan baris berikut pada berkas <code>app.php</code> didalam direktori <code>bootstrap</code> yang ada di direktori <code>root</code> laravel. Tepatnya: <code>/bootstrap/app.php</code>.
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php">$app<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">bind</span>(<span style="color:#e6db74">&#39;path.public&#39;</span>, <span style="color:#66d9ef">function</span>() { <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">base_path</span>()<span style="color:#f92672">.</span><span style="color:#e6db74">&#39;/public_html&#39;</span>; })
+</code></pre></div></li>
+</ol>
+<p>Setelah melakukan langkah-langkah tersebut di atas. <em>Deployment</em> ke Cpanel sama seperti aplikasi pada umumnya. Misal:</p>
+<ul>
+<li>Zip direktori.</li>
+<li>Upload melalui ftp ke direktori <code>user</code>, bukan <strong>Document root</strong>.</li>
+<li>Extract berkas zip.</li>
+<li>Buat database dan User.</li>
+<li>Import database.</li>
+<li>Sesuaikan berkas <code>.env</code> dengan konfigurasi database.</li>
+</ul>
+<p>Seperti itu sederhananya cara untuk men-<em>deploy</em> ke CPanel secara umum, tapi disinilah muncul derita baru.</p>
+<h2 id="derita-kedua">Derita Kedua</h2>
+<p>Bagian ini sebenarnya opsional saja. Dengan solusi di atas, website sudah bisa berjalan dan diakses dari internet. Hanya saja, kadang saya suka gatel matanya liat berkas berantakan di direktori user.</p>
+<p><img src="images/messed_dir_tree.png#center" alt="Direktori tree user cpanel berantakan"></p>
+<p>Konten direktori <code>root</code> Laravel bertebaran bak dedaunan yang jatuh ke bumi dimusim gugur, membuat hati ingin segera ngambil sapu lidi ama <em>pengki</em> buat bersihin. Eh, emangnya di Indonesia ada musim gugur? Ah&hellip;, sudahlah. Waktunya bebenah, biar ga sakit mata.</p>
+<ol>
+<li>Satukan seluruh direktori di dalam <strong>Root direktori</strong> Laravel kecuali <strong>public_html</strong> ke sebuah direktori baru. Misal (karena disini website-nya odis) direktori dengan nama <strong>odis</strong>.</li>
+</ol>
+<p><img src="images/tidy_dir_tree_local.png#center" alt="Struktur direktori rapi"></p>
+<ol start="2">
+<li>Konfigurasi lagi berkas <code>public_html/index.php</code>, menyesuaikan dengan struktur direktori yang sekarang:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#75715e">// public_html/index.php
+</span><span style="color:#75715e"></span>$app <span style="color:#f92672">=</span> <span style="color:#66d9ef">require_once</span> <span style="color:#66d9ef">__DIR__</span><span style="color:#f92672">.</span><span style="color:#e6db74">&#39;/../odis/bootstrap/app.php&#39;</span>;
+</code></pre></div><p>Perhatikan, ada tambahan direktori <strong>odis</strong> sebelum <strong>bootstrap</strong> pada path untuk inisiasi <code>$app</code>.</p>
+</li>
+</ol>
+<p>Cara deploy tetap sama seperti sebelumnya. Selesai sudah, sekarang mata sudah ndak sakit lagi.</p>
+<p><em>Referensi: <a href="https://medium.com/@pixelvars/laravel-change-public-html-to-public-html-the-right-way-496431aed94">https://medium.com/@pixelvars/laravel-change-public-html-to-public-html-the-right-way-496431aed94</a></em></p>
+
+  </div>
+  <footer>
+  <p>
+  &copy; 2021 BringsRain&#39;s Scratchlogs.
+  Powered by <a href="https://gohugo.io/">Hugo</a>
+  using the <a href="https://github.com/koirand/pulp/">pulp</a> theme.
+  </p>
+</footer>
+
+
+  </body>
+</html>
