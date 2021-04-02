@@ -6,7 +6,17 @@
     <description>Recent content on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 27 Feb 2021 13:34:30 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 13:21:08 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mariadb -- Too Many Connections Error</title>
+      <link>https://bringsrain.odis.web.id/sysadm/mariadb-too-many-connections-error/</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/sysadm/mariadb-too-many-connections-error/</guid>
+      <description>Bencana Dihari Libur Tanggal merah! Istilah yang sering digunakan untuk menandakan hari libur, karena di kalender biasanya emang dicetak merah, seperti hari ini. Liburan selain akhir pekan itu memang memiliki sensasi yan berbeda, terasa seperti bonus. Biasanya, dihari libur semacam ini, banyak rencana yang ingin dilakukan, seperti; berwisata, makan diluar, nongkrong bareng teman-teman, dll.
+Dihari libur ini, saya juga punya rencana, walaupun tidak se-wah rencana-rencana yagn disebutkan sebelumnya. Saya cuma ingin berleha-leha dikamar, ditemenin para bos meong, menghabiskan episode-episode tontonan yang belum terselesaikan.</description>
+    </item>
+    
     <item>
       <title>Deploy Laravel Website di Cpanel</title>
       <link>https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/</link>

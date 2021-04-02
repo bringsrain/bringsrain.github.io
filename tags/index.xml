@@ -6,7 +6,34 @@
     <description>Recent content in Tags on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 27 Feb 2021 13:34:30 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 13:21:08 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MariaDB</title>
+      <link>https://bringsrain.odis.web.id/tags/mariadb/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/mariadb/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://bringsrain.odis.web.id/tags/mysql/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/mysql/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysadmin</title>
+      <link>https://bringsrain.odis.web.id/tags/sysadmin/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/sysadmin/index.json</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cpanel</title>
       <link>https://bringsrain.odis.web.id/tags/cpanel/index.json</link>
