@@ -1,0 +1,37 @@
+[
+    {
+        "ref": "https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/",
+        "title": "Qutebrowser Open in New Window",
+        "section": "scratchlogs",
+        "tags": ["qutebrowser"],
+        "date" : "2021.02.25",
+        "body": "Command Mode open -w [URL] Keybinding wo "
+    }
+,
+    {
+        "ref": "https://bringsrain.odis.web.id/scratchlogs/kitty-fungsi-yang-sering-digunakan/",
+        "title": "Kitty - Fungsi Yang Sering Digunakan",
+        "section": "scratchlogs",
+        "tags": ["Terminal Emulator","Kitty"],
+        "date" : "2021.02.23",
+        "body": "Keybindings    Action Shortcut     Open new tab ctrl + shift + t   Set tab title ctrl + alt + shift + t   Next tab ctrl + shift + right   Previous tab ctrl + shift + left   Move tab forward ctrl + shift + .   Move tab backward ctrl + shift + ,   Open new window ctrl + shift + enter   Next window ctrl + shift + ]   Previous window ctrl shift + [    "
+    }
+,
+    {
+        "ref": "https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/",
+        "title": "Aur Build FAILED (Unknown Public Key [ key ])",
+        "section": "scratchlogs",
+        "tags": ["Manjaro"],
+        "date" : "2021.02.10",
+        "body": "Build dari AUR kena galat public key ndak dikenal? import aja dulu\u0026hellip; ^_^\ngpg --recv-keys [key] "
+    }
+,
+    {
+        "ref": "https://bringsrain.odis.web.id/scratchlogs/halo-dunia/",
+        "title": "Halo Dunia",
+        "section": "scratchlogs",
+        "tags": null,
+        "date" : "2021.02.07",
+        "body": "Halo Dunia!! "
+    }
+]

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ScratchLog</title>
+    <link>https://bringsrain.odis.web.id/tags/</link>
+    <description>Recent content in Tags on ScratchLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 17 Apr 2021 04:24:59 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaTex</title>
+      <link>https://bringsrain.odis.web.id/tags/latex/index.json</link>
+      <pubDate>Sat, 17 Apr 2021 04:24:59 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/latex/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nvim</title>
+      <link>https://bringsrain.odis.web.id/tags/nvim/index.json</link>
+      <pubDate>Sat, 17 Apr 2021 04:24:59 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/nvim/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MariaDB</title>
+      <link>https://bringsrain.odis.web.id/tags/mariadb/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/mariadb/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://bringsrain.odis.web.id/tags/mysql/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/mysql/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysadmin</title>
+      <link>https://bringsrain.odis.web.id/tags/sysadmin/index.json</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/sysadmin/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cpanel</title>
+      <link>https://bringsrain.odis.web.id/tags/cpanel/index.json</link>
+      <pubDate>Sat, 27 Feb 2021 13:34:30 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/cpanel/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>https://bringsrain.odis.web.id/tags/laravel/index.json</link>
+      <pubDate>Sat, 27 Feb 2021 13:34:30 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/laravel/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qutebrowser</title>
+      <link>https://bringsrain.odis.web.id/tags/qutebrowser/index.json</link>
+      <pubDate>Thu, 25 Feb 2021 10:27:49 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/qutebrowser/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kitty</title>
+      <link>https://bringsrain.odis.web.id/tags/kitty/index.json</link>
+      <pubDate>Tue, 23 Feb 2021 05:40:52 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/kitty/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal Emulator</title>
+      <link>https://bringsrain.odis.web.id/tags/terminal-emulator/index.json</link>
+      <pubDate>Tue, 23 Feb 2021 05:40:52 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/terminal-emulator/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjaro</title>
+      <link>https://bringsrain.odis.web.id/tags/manjaro/index.json</link>
+      <pubDate>Wed, 10 Feb 2021 15:06:21 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/tags/manjaro/index.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

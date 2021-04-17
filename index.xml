@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ScratchLog</title>
+    <link>https://bringsrain.odis.web.id/</link>
+    <description>Recent content on ScratchLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 17 Apr 2021 04:24:59 +0700</lastBuildDate><atom:link href="https://bringsrain.odis.web.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvim Ganti Engine Latex Ke Xelatex</title>
+      <link>https://bringsrain.odis.web.id/nvim/nvim-ganti-engine-latex-ke-xelatex/</link>
+      <pubDate>Sat, 17 Apr 2021 04:24:59 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/nvim/nvim-ganti-engine-latex-ke-xelatex/</guid>
+      <description>Inkonsistensi Ini adalah penyakit kronis lainnya yang saya idap, selain malas. Setelah melakukan inisiasi nvim yang saya posting pada bulan februari 2021 lalu, sehari-hari saya masih bergantung pada Vim untuk pengeditan LaTex. Setelah beberapa ratus lembar berkas PDF yang dikompilasi dengan LaTex, pagi ini, muncul sebuah perasaan yang kembali &amp;ldquo;menggerayangi&amp;rdquo;. Jiwa bertualang kembali datang.
+Zona nyaman yang selalu saya rasakan saat menggunakan Vim tak pernah ditemukan saat menggunakan Nvim. Tidak! Yang salah bukan Nvim.</description>
+    </item>
+    
+    <item>
+      <title>Mariadb -- Too Many Connections Error</title>
+      <link>https://bringsrain.odis.web.id/sysadm/mariadb-too-many-connections-error/</link>
+      <pubDate>Fri, 02 Apr 2021 13:21:08 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/sysadm/mariadb-too-many-connections-error/</guid>
+      <description>Bencana Dihari Libur Tanggal merah! Istilah yang sering digunakan untuk menandakan hari libur, karena di kalender biasanya emang dicetak merah, seperti hari ini. Liburan selain akhir pekan itu memang memiliki sensasi yan berbeda, terasa seperti bonus. Biasanya, dihari libur semacam ini, banyak rencana yang ingin dilakukan, seperti; berwisata, makan diluar, nongkrong bareng teman-teman, dll.
+Dihari libur ini, saya juga punya rencana, walaupun tidak se-wah rencana-rencana yagn disebutkan sebelumnya. Saya cuma ingin berleha-leha dikamar, ditemenin para bos meong, menghabiskan episode-episode tontonan yang belum terselesaikan.</description>
+    </item>
+    
+    <item>
+      <title>Deploy Laravel Website di Cpanel</title>
+      <link>https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/</link>
+      <pubDate>Sat, 27 Feb 2021 13:34:30 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/</guid>
+      <description>Developer Kere Hore Belajar berkolaborasi dalam sebuah proyek teknologi informasi menyenangkan. Menggelitik kreatifitas. Ceritanya, Sebagai pemuda harapan bangsa&amp;hellip; eh, pemuda zaman now, ga keren dong kalo belum pernah nyobain yang namanya ngoprek website. Baru-baru ini, kebetulan ada kesempatan untuk ngoprek website berjamaah ama temen-temen. Di dalam oprek berjamaah ini, saya kebagian jatah meng-online-kan website hasil oprekan. Untuk meng-online-kan website tentu butuh hostingan. Mau sewa VPS, ndak mampu. Mau daftar cloud gratisan ndak punya kartu kridit.</description>
+    </item>
+    
+    <item>
+      <title>Qutebrowser Open in New Window</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/</link>
+      <pubDate>Thu, 25 Feb 2021 10:27:49 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/qutebrowser-open-in-new-window/</guid>
+      <description>Command Mode open -w [URL] Keybinding wo </description>
+    </item>
+    
+    <item>
+      <title>Kitty - Fungsi Yang Sering Digunakan</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/kitty-fungsi-yang-sering-digunakan/</link>
+      <pubDate>Tue, 23 Feb 2021 05:40:52 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/kitty-fungsi-yang-sering-digunakan/</guid>
+      <description>Keybindings    Action Shortcut     Open new tab ctrl + shift + t   Set tab title ctrl + alt + shift + t   Next tab ctrl + shift + right   Previous tab ctrl + shift + left   Move tab forward ctrl + shift + .   Move tab backward ctrl + shift + ,   Open new window ctrl + shift + enter   Next window ctrl + shift + ]   Previous window ctrl shift + [    </description>
+    </item>
+    
+    <item>
+      <title>Cpanel Force Redirect Http to Https</title>
+      <link>https://bringsrain.odis.web.id/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/</link>
+      <pubDate>Tue, 23 Feb 2021 04:48:12 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/</guid>
+      <description>Bukaan Satu Mo lahiran kali ah&amp;hellip;
+Ngga denk!, Bingung saja mau tulis header-nya apa, pengennya sih yang anti mainstream begitulah jadinya. Baru-baru menggunakan Cpanel, melihat fitur SSL gratisan semacam Letsencrypt berbinar-binarlah mata saya. Ndak perlu rogoh kocek lagi kalo mau situsnya bergaya dengan embel-embel &amp;ldquo;s&amp;rdquo; diprotokolnya. Katanya kalo ditambahin huruf &amp;ldquo;s&amp;rdquo; itu jadi makin bonafide.
+Lha&amp;hellip;, kata siapa om?
+Aduuh, males ngusutnya itu kata siapa, saya cari yang gampang aja ya, macem wikipedia.</description>
+    </item>
+    
+    <item>
+      <title>Aur Build FAILED (Unknown Public Key [ key ])</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</link>
+      <pubDate>Wed, 10 Feb 2021 15:06:21 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/aur-build-failed-unknown-public-key/</guid>
+      <description>Build dari AUR kena galat public key ndak dikenal? import aja dulu&amp;hellip; ^_^
+gpg --recv-keys [key] </description>
+    </item>
+    
+    <item>
+      <title>Inisiasi NeoVim</title>
+      <link>https://bringsrain.odis.web.id/nvim/nvim-inisiasi/</link>
+      <pubDate>Sun, 07 Feb 2021 14:13:02 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/nvim/nvim-inisiasi/</guid>
+      <description>Termakan Rayuan Entah gombal atau tidak, yang pasti saya termakan rayuan temen-temen dibeberapa grup perpesanan Telegram. Saya sudah menggunakan Vim dari tahun 2010-an. Cukup lama, kalau mempertimbangkan saat post ini dibuat. Selama 11 tahun menggunakan Vim hanya sebagai komplementer saja, penyedap buat ketak-ketik diterminal. Text editor kegemaran saya ini, belum pernah digunakan untuk kerja paksa. Saya memang pencinta perawan, eh&amp;hellip; vanilla untuk konfigurasi.
+Jarang sekali saya mengubah konfigurasi aplikasi-aplikasi yang saya gunakan, jika memang tidak ada kebutuhan khusus.</description>
+    </item>
+    
+    <item>
+      <title>Halo Dunia</title>
+      <link>https://bringsrain.odis.web.id/scratchlogs/halo-dunia/</link>
+      <pubDate>Sun, 07 Feb 2021 14:00:02 +0700</pubDate>
+      
+      <guid>https://bringsrain.odis.web.id/scratchlogs/halo-dunia/</guid>
+      <description>Halo Dunia!! </description>
+    </item>
+    
+  </channel>
+</rss>
