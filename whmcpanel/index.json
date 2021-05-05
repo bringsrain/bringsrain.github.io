@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://bringsrain.odis.web.id/whmcpanel/deploy-laravel-website/",
+        "ref": "https://bringsrain.github.io/whmcpanel/deploy-laravel-website/",
         "title": "Deploy Laravel Website di Cpanel",
         "section": "whmcpanel",
         "tags": ["Cpanel","Laravel"],
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://bringsrain.odis.web.id/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/",
+        "ref": "https://bringsrain.github.io/whmcpanel/2021-02-23-cpanel-force-redirect-http-to-https/",
         "title": "Cpanel Force Redirect Http to Https",
         "section": "whmcpanel",
         "tags": null,

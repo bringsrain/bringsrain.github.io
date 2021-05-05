@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://bringsrain.odis.web.id/nvim/nvim-ganti-engine-latex-ke-xelatex/",
+        "ref": "https://bringsrain.github.io/nvim/nvim-ganti-engine-latex-ke-xelatex/",
         "title": "Nvim Ganti Engine Latex Ke Xelatex",
         "section": "nvim",
         "tags": ["Nvim","LaTex"],
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://bringsrain.odis.web.id/nvim/nvim-inisiasi/",
+        "ref": "https://bringsrain.github.io/nvim/nvim-inisiasi/",
         "title": "Inisiasi NeoVim",
         "section": "nvim",
         "tags": ["nvim"],
