@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bringsrain.github.io/tags/cats/</loc>
+    <lastmod>2021-05-28T22:03:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bringsrain.github.io/scratchlogs/merawat-anak-kucing-hari-1/</loc>
+    <lastmod>2021-05-28T22:03:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bringsrain.github.io/</loc>
+    <lastmod>2021-05-28T22:03:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bringsrain.github.io/scratchlogs/</loc>
+    <lastmod>2021-05-28T22:03:16+07:00</lastmod>
+  </url><url>
+    <loc>https://bringsrain.github.io/tags/</loc>
+    <lastmod>2021-05-28T22:03:16+07:00</lastmod>
+  </url><url>
     <loc>https://bringsrain.github.io/tags/latex/</loc>
     <lastmod>2021-05-05T04:13:51+07:00</lastmod>
   </url><url>
     <loc>https://bringsrain.github.io/scratchlogs/latex-proyek-multi-file-dengan-subfiles/</loc>
-    <lastmod>2021-05-05T04:13:51+07:00</lastmod>
-  </url><url>
-    <loc>https://bringsrain.github.io/</loc>
-    <lastmod>2021-05-05T04:13:51+07:00</lastmod>
-  </url><url>
-    <loc>https://bringsrain.github.io/scratchlogs/</loc>
-    <lastmod>2021-05-05T04:13:51+07:00</lastmod>
-  </url><url>
-    <loc>https://bringsrain.github.io/tags/</loc>
     <lastmod>2021-05-05T04:13:51+07:00</lastmod>
   </url><url>
     <loc>https://bringsrain.github.io/tags/nvim/</loc>
