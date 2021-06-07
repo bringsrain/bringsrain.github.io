@@ -6,13 +6,23 @@
     <description>Recent content on ScratchLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Fri, 28 May 2021 22:03:16 +0700</lastBuildDate><atom:link href="https://bringsrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 04:21:28 +0700</lastBuildDate><atom:link href="https://bringsrain.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Merawat Anak Kucing Hari 1</title>
-      <link>https://bringsrain.github.io/scratchlogs/merawat-anak-kucing-hari-1/</link>
+      <title>SSH Warning: Remote Host Identification Has Changed</title>
+      <link>https://bringsrain.github.io/sysadm/ssh-warning-remote-host-identification-has-changed/</link>
+      <pubDate>Tue, 08 Jun 2021 04:21:28 +0700</pubDate>
+      
+      <guid>https://bringsrain.github.io/sysadm/ssh-warning-remote-host-identification-has-changed/</guid>
+      <description>Biang Kerok Sehabis install ulang server, atau geser-geser alamat IP saat melakukan ssh ke server muncul peringatan:
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that a host key has just been changed. The fingerprint for the ED25519 key sent by the remote host is SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk.</description>
+    </item>
+    
+    <item>
+      <title>Merawat Anak Kucing Hari Ke-1</title>
+      <link>https://bringsrain.github.io/scratchlogs/merawat-anak-kucing-hari-ke-1/</link>
       <pubDate>Fri, 28 May 2021 22:03:16 +0700</pubDate>
       
-      <guid>https://bringsrain.github.io/scratchlogs/merawat-anak-kucing-hari-1/</guid>
+      <guid>https://bringsrain.github.io/scratchlogs/merawat-anak-kucing-hari-ke-1/</guid>
       <description>Emak yang Kurang Bertanggung Jawab Beberapa minggu yang lalu, si Cmang sudah tidak terlihat bunting lagi. Saya tidak tahu dimana emak yang satu itu lahiran. Suara anak kucing juga tidak terdengar disekitaran gubug bahagia yang saya diami. Sempat kepikiran, kalo sampe si Cmang lahiran disembarang tempat anaknya bisa dibuang orang. Pengen nanya itu emak meong, tapi ya ndak mungkin dijawab. Sempat menjadi uneg-uneg selama beberapa minggu.
 Seminggu yang lalu jeritan-jeritan keras terdengar dari lemari di bawah jemuran.</description>
     </item>
