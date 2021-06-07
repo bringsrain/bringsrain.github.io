@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>
+      
+          SSH Warning: Remote Host Identification Has Changed - ScratchLog
+      
+  </title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="BringsRain&#39;s Scratchlogs" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://bringsrain.github.io/img/favicon.ico">
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://bringsrain.github.io/style.min.f249de2bfed65a2a93f6f7cc125905d16fb7f93f4cd1e2070fda3964fc4c27a8.css" integrity="sha256-8kneK/7WWiqT9vfMElkF0W&#43;3&#43;T9M0eIHD9o5ZPxMJ6g=">
+  
+  
+  
+  <link rel="stylesheet" href="https://bringsrain.github.io/style-dark.min.0a647fb6c07e04b77b54fa0515d0a683d39ecdb251dba960fe1f966f7ff36fc2.css" media="(prefers-color-scheme: dark)" integrity="sha256-CmR/tsB&#43;BLd7VPoFFdCmg9OezbJR26lg/h&#43;Wb3/zb8I=">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  
+  
+
+  <meta property="og:title" content="SSH Warning: Remote Host Identification Has Changed" />
+<meta property="og:description" content="Biang Kerok Sehabis install ulang server, atau geser-geser alamat IP saat melakukan ssh ke server muncul peringatan:
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that a host key has just been changed. The fingerprint for the ED25519 key sent by the remote host is SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://bringsrain.github.io/sysadm/ssh-warning-remote-host-identification-has-changed/" /><meta property="article:section" content="sysadm" />
+<meta property="article:published_time" content="2021-06-08T04:21:28&#43;07:00" />
+<meta property="article:modified_time" content="2021-06-08T04:21:28&#43;07:00" />
+
+<meta itemprop="name" content="SSH Warning: Remote Host Identification Has Changed">
+<meta itemprop="description" content="Biang Kerok Sehabis install ulang server, atau geser-geser alamat IP saat melakukan ssh ke server muncul peringatan:
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that a host key has just been changed. The fingerprint for the ED25519 key sent by the remote host is SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk."><meta itemprop="datePublished" content="2021-06-08T04:21:28&#43;07:00" />
+<meta itemprop="dateModified" content="2021-06-08T04:21:28&#43;07:00" />
+<meta itemprop="wordCount" content="307">
+<meta itemprop="keywords" content="sysadm,ssh," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:image" content="https://bringsrain.github.io/img/avatar.jpg"/>
+<meta name="twitter:title" content="SSH Warning: Remote Host Identification Has Changed"/>
+<meta name="twitter:description" content="Biang Kerok Sehabis install ulang server, atau geser-geser alamat IP saat melakukan ssh ke server muncul peringatan:
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that a host key has just been changed. The fingerprint for the ED25519 key sent by the remote host is SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk."/>
+
+  <!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+  <![endif]-->
+
+  <!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+  <![endif]-->
+
+  
+  
+</head>
+
+  <body>
+    
+  <h1>SSH Warning: Remote Host Identification Has Changed</h1>
+  <header>
+  
+  <div class="avatar">
+    <img class="avatarMask" src="https://bringsrain.github.io/img/avatar.jpg" alt="">
+    <a href="https://bringsrain.github.io"><img class="avatar-border" src="https://bringsrain.github.io/img/avatar-border.svg" alt=""></a>
+  </div>
+  
+  <h2><a class="author" href="https://bringsrain.github.io">BringsRain&#39;s Scratchlogs</a></h2>
+</header>
+
+  
+  
+  
+  <p class="date">June 8, 2021</p>
+  
+  
+  
+  <div id="tags">
+    <ul>
+      
+        
+        
+          <li><a href="https://bringsrain.github.io/tags/sysadm/">sysadm</a></li>
+        
+      
+        
+        
+          <li><a href="https://bringsrain.github.io/tags/ssh/">ssh</a></li>
+        
+      
+    </ul>
+  </div>
+  
+  
+  <div id="contentBody">
+    <h2 id="biang-kerok">Biang Kerok</h2>
+<p>Sehabis install ulang server, atau geser-geser alamat IP saat melakukan ssh ke server muncul peringatan:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now <span style="color:#f92672">(</span>man-in-the-middle attack<span style="color:#f92672">)</span>!
+It is also possible that a host key has just been changed.
+The fingerprint <span style="color:#66d9ef">for</span> the ED25519 key sent by the remote host is
+SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk.
+Please contact your system administrator.
+Add correct host key in /home/bringsrain/.ssh/known_hosts to get rid of this message.
+Offending ED25519 key in /home/bringsrain/.ssh/known_hosts:156
+Host key <span style="color:#66d9ef">for</span> 192.168.30.5 has changed and you have requested strict checking.
+</code></pre></div><p>Kemudian koneksi gagal atau terputus. Lha kok bisa?</p>
+<p>Biang kerok dari kejadian ini adalah perbedaan atau perubahan <em>public key</em> yang diterima dari server yang akan diakses dengan yang tersimpan dalam berkas <code>known_hosts</code>. Dalam peringatan tersebut disebutkan tentang man-in-the-middle <em>attack</em>; tentu saja hal tersebut juga bisa terjadi, tapi jika memang yakin tidak ada kejadian seperti itu, ada cara untuk segera bisa terkoneksi lagi menggunakan SSH ke server yang dikangenin.</p>
+<h2 id="hapus-data-lama-dari-berkas-known_hosts">Hapus Data Lama Dari Berkas &lsquo;known_hosts&rsquo;</h2>
+<p>Berkas ini biasanya <em>&ldquo;ngumpet&rdquo;</em> di <code>/$HOME/.ssh/known_hosts</code>. Bisa dibilang berkas ini adalah sebuah basis data yang menyimpan pertukaran data dengan perangkat yang pernah diakses menggunakan SSH. Berhubung sedang dalam momen menghindari bertele-tele; segera comot alamat IP yang tertera dalam peringatan buat bahan menhapus. Misalan mengikut peringatan di atas:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sed -i <span style="color:#e6db74">&#39;/192.168.30.5/d&#39;</span> ~/.ssh/known_hosts
+</code></pre></div><p>Terhapus sudah, silahkan lakukan akses SSH kembali ke server yang dikangenin:</p>
+<pre><code>ssh root@192.168.30.5
+</code></pre><p>Selanjutnya akan mendapatkan balasan pesan sayang seperti berikut:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">The authenticity of host <span style="color:#e6db74">&#39;192.168.30.5 (192.168.30.5)&#39;</span> can<span style="color:#960050;background-color:#1e0010">&#39;</span>t be established.
+ED25519 key fingerprint is SHA256:RAP3YE1Gtkuzil0vW4i38F9GGDvp7AbCQm11NhYdQMk.
+This key is not known by any other names
+Are you sure you want to <span style="color:#66d9ef">continue</span> connecting <span style="color:#f92672">(</span>yes/no/<span style="color:#f92672">[</span>fingerprint<span style="color:#f92672">])</span>?
+</code></pre></div><p>Tinggal jawab  <code>yes</code>, maka data baru akan ditambahkan keberkas <code>known_hosts</code> sebagai tanda cinta, SSH akan terkoneksi, dan sysadm bisa kembali bercengkrama dengan si server.</p>
+
+  </div>
+  <footer>
+  <p>
+  &copy; 2021 BringsRain&#39;s Scratchlogs.
+  Powered by <a href="https://gohugo.io/">Hugo</a>
+  using the <a href="https://github.com/koirand/pulp/">pulp</a> theme.
+  </p>
+</footer>
+
+
+  </body>
+</html>
